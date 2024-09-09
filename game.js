@@ -155,7 +155,7 @@ class MathBirdGame {
     this.mathProblems.getChildren().forEach((problem) => {
       if (problem.x < -100) {
         this.mathProblems.remove(problem, true, true);
-      }
+      } 
     });
   }
 

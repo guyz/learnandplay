@@ -10,4 +10,4 @@ export default {
     "pipe": "assets/pipe-green.png"
 
   }
-};
+}; 
